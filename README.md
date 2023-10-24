@@ -1,8 +1,5 @@
 # Pricing Card React App
 
-Deployment 🚀
-Preview : https://symphonious-cat-47d3dc.netlify.app/
-
 This is a simple React web application that displays pricing cards. You can view the live version of this project here: [Live Demo](https://symphonious-cat-47d3dc.netlify.app/) 🚀
 
 ## Getting Started
